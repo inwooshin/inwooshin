@@ -8,10 +8,7 @@
    
    ## ✨ Tech stack ✨
     
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C"/></a>&nbsp
-   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C"/></a>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/></a>  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV"/></a>  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&clo"/></a>
 </center>
 <!--
 **inwooshin/inwooshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
