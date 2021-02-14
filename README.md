@@ -1,15 +1,19 @@
-<center>
 
-### 👋 Hi there
 
-   Hello, my name is Inwoo Shin.   
-   I am a student at Myongji University, and I am very interested in embedded and firmware.   
-   Recently, I am studying algorithms and data structures and I am continuing to solve problems.   
+<h3 align="center"> 👋 Hi there </h3>
    
-   ## ✨ Tech stack ✨
-    
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c"/></a>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/></a>  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/></a>  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&clo"/></a>
-</center>
+   <p align="center"> Hello, my name is Inwoo Shin.   </p>
+   <p align="center">I am a student at Myongji University, and I am very interested in embedded and firmware. </p>  
+   <p align="center">Recently, I am studying algorithms and data structures and I am continuing to solve problems. </p>
+   
+   <h3 align = "center"> ✨ Tech stack ✨ </h3>
+   
+   <p align="center"> 
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a>&nbsp  
+   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&clo"/></a>&nbsp 
+   </p>
 <!--
 **inwooshin/inwooshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
