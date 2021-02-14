@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a> 
-   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&clo"/></a> 
+   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=openglL&clo"/></a> 
    <!--
 **inwooshin/inwooshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
