@@ -1,12 +1,12 @@
 
 
-   ### 🖐 Hi there
+   ### 🐹 Hi there
    
    Hello, my name is Inwoo Shin.   
    I am a student✍️ at Myongji University, and I am very interested in embedded📟 and firmware🐧.   
    Recently, I am studying algorithms and data structures and continuing to solve problems📝.   
    
-   ### ⭐ Tech stack
+   ### 🦝 Tech stack
    
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
