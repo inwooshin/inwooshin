@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a>
    
    ### 🙋‍♂️ Me
-   <a href="www.instagram.com/inw117/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inw117/"/></a>
+   <a href="https://www.instagram.com/inw117/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inw117/"/></a>
    <!--
 **inwooshin/inwooshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
