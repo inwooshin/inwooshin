@@ -1,8 +1,7 @@
 
 
-   # 🐹 Hi there
+   # 🐹 Hi there, I'm Inwoo Shin.
    
-   Hello, my name is Inwoo Shin.   
    I am a student✍️ at Myongji University, and I am very interested in Embedded📟 and Firmware🐧.   
    Recently, I am studying algorithms and data structures and continuing to solve problems📝.   
    
