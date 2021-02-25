@@ -1,6 +1,6 @@
 
 
-   # :smirk_cat: Hi there   
+   # :wave: Hi there   
    
    Hello, my name is Inwoo Shin.   
    I am a student✍️ at Myongji University, and I am very interested in Embedded📟 and Firmware🐧.   
