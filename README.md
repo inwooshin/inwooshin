@@ -3,7 +3,7 @@
    # :wave: Hi there   
    
    Hello, my name is Inwoo Shin.  
-   I am a student :school_satchel: at Myongji University, and I am very interested in Embedded :fax: and Firmware 🐧.   
+   I'm a student :school_satchel: at Myongji University, and I am very interested in Embedded :fax: and Firmware 🐧.   
    Recently, I am studying algorithms and data structures and continuing to solve problems      :blue_book:.   
    
    ###     :pushpin: Tech stack
