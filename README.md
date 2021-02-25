@@ -1,11 +1,10 @@
 
 
 
-   # :musical_score: Hi there     
+   # :musical_score: Hi! I'm Inwoo Shin     
    
-   Hello, my name is Inwoo Shin.  
-   - I'm a student :school_satchel: at Myongji University, and I am very interested in Embedded :fax: and Firmware 🐧.   
-   - Recently, I am studying algorithms and data structures and continuing to solve problems      :blue_book:.   
+   - I'm a student at Myongji University, and I am very interested in Embedded and Firmware.   
+   - Recently, I am studying algorithms and data structures and continuing to solve problems.   
    
    ###     :pushpin: Tech stack
    
