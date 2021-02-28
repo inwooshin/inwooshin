@@ -1,7 +1,7 @@
 
 
 
-   ## Hi! I'm Inwoo Shin     
+   ## :musical_score: Hi! I'm Inwoo Shin     
    
    - I'm a student at Myongji University, and I am very interested in Embedded and Firmware.   
    - Recently, I am studying algorithms and data structures and continuing to solve problems.   
